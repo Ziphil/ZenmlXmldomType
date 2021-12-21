@@ -19,7 +19,7 @@ This is also a part of the [ZenML](https://github.com/Ziphil/Zenml) infrastructu
 ## Installation and usage
 Make sure that the version of your TypeScript is 4.5 or above.
 Add the following code to your `package.json` and run `npm install`.
-```
+```json
 "devDependencies": {
   "@typescript/lib-dom": "npm:@zenml/xmldom-type",
 }
