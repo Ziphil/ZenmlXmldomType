@@ -2,7 +2,7 @@
   "name": "@zenml/xmldom-type",
   "version": "0.0.0",
   "author": "Ziphil",
-  "description": "XML DOM type definitions",
+  "description": "Type definitions for XML DOM",
   "homepage": "https://github.com/Ziphil/ZenmlXmldomType",
   "license": "MIT",
   "main": "dist/index.js",
